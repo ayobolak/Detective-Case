@@ -1,5 +1,8 @@
 # Detective-Case
+
 This project investigates a fictional detective case using SQL to analyze and solve the mystery. It involves querying datasets to uncover clues, identify suspects, and piece together the sequence of events. This repository demonstrates techniques such as data cleaning, joining tables, filtering, and aggregating data to draw conclusions.
+
+![image](https://github.com/user-attachments/assets/e1497e54-6e66-4672-8141-e712d75d6f90)
 
 ## Case Study
 A crime has taken place and the detective needs your help. The detective gave you the crime scene report, but you somehow lost it. You vaguely remember that the crime was a murder that occurred sometime on Jan.15, 2018 and that it took place in SQL City. Start by retrieving the corresponding crime scene report from the police department’s database.
